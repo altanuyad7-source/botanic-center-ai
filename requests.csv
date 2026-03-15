@@ -1,0 +1,10 @@
+id,submitted_at,submitted_by_role,apartment_unit,message_text,category,sentiment,urgency,status,satisfaction_score
+1,2026-03-14 23:17:01,resident,75,The hallway lights are off again. Can't you replace it with something durable. ,Maintenance,Frustrated,Medium,In Progress,5.0
+2,2026-03-14 23:17:48,resident,75,"water leaking in my apartment. what is the number?
+",Plumbing,Frustrated,High,Open,
+3,2026-03-14 23:19:04,resident,58,"can we have shade near the builing for elders
+",General,Neutral,Medium,Open,
+4,2026-03-15 01:11:26,resident,78,Can we build shed for parking on street,General,Neutral,Medium,Open,
+5,2026-03-15 02:09:45,resident,85,Can we build a shed for elders near 5th block,General,Neutral,Medium,Open,
+6,2026-03-15 02:51:54,resident,90,Can we build a shed for elders near 5th block,General,Neutral,Medium,Open,
+7,2026-03-15 03:15:09,resident,90,Can we build a shed for elders near 5th block,General,Neutral,Medium,Open,
