@@ -28,9 +28,17 @@ By automating ticket triage, categorizing sentiment, and allowing residents to q
 
 ---
 
-## 🚀 How to Run the Prototype Locally
+## 🚀 How to Run the Prototype
 
+### 🌐 Live Demo
+You can access the live, interactive prototype immediately at:  
+**[https://botanic-center.streamlit.app/](https://botanic-center.streamlit.app/)**
+
+---
+
+### 💻 Local Setup
 If you would like to test this prototype on your local machine, follow these steps:
+
 
 ### 1. Clone the repository
 ```bash
