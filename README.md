@@ -33,8 +33,10 @@ By automating ticket triage, categorizing sentiment, and allowing residents to q
 If you would like to test this prototype on your local machine, follow these steps:
 
 ### 1. Clone the repository
-`git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME`
+```bash
+git clone [https://github.com/altanuyad7-source/botanic-center-ai.git](https://github.com/altanuyad7-source/botanic-center-ai.git)
+cd botanic-center-ai
+```
 
 ### 2. Install dependencies
 Ensure you have Python installed, then run:
